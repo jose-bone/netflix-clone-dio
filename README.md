@@ -2,7 +2,7 @@
 
 ![preview](./.github/app.png)
 
-🚧 Netflix UI Clone 🚀 Under construction... 🚧
+> 🚧 Netflix UI Clone 🚀 Under construction... 🚧
 
 ### The requirements are:
 
